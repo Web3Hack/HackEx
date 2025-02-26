@@ -34,7 +34,7 @@ Last updated: [20250526]
 ## 🙌 Acknowledgments
 
 ### Core Contributors
-- [@xxx](https://github.com/xxx) - Project founder
+- [@Web3Hack](https://github.com/Web3Hack) - Project founder
 
 ### Data Sources
 - https://hacked.slowmist.io
