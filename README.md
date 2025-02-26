@@ -14,8 +14,8 @@ HackEx is an open-source repository documenting security incidents in blockchain
 - **Post-mortem analyses** from official reports
 
 ```plaintext
-Total tracked events: 287
-Estimated losses: $XXB+ (2011-2023)
+Total hacked events: 287
+Estimated losses: $XXB+ (2011-2025)
 Last updated: [20250526]
 ```
 
@@ -29,7 +29,7 @@ Last updated: [20250526]
 
 > [!TIP]
 > **Full Event List**:  
-> See [TIMELINE.md](TIMELINE.md) for complete historical records or browse [events/by_year](events/by_year)
+> See [TIMELINE.md](TIMELINE.md) for complete historical records.
 
 ## 🙌 Acknowledgments
 
