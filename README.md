@@ -19,13 +19,13 @@ Estimated losses: $XXB+ (2011-2023)
 Last updated: [20250526]
 ```
 
-## 🔥 All Events
-| Date       | Target          | Loss  | Attack Type          | Chain    |
-| ---------- | --------------- | ----- | -------------------- | -------- |
-| 20250221   | [Bybit]()       | $130M | Privilege Escalation | Ethereum |
-| 2023-05-20 | Jimbos Protocol | $7.5M | Logic Flaw           | Arbitrum |
-| 2023-04-17 | Azuki NFT Mint  | $2M   | Phishing             | Ethereum |
-| 2023-03-13 | Euler Finance   | $197M | Flash Loan           | Ethereum |
+## 🔥 Key Recent Events (Last 6 Months)
+| Date       | Target                                                       | Loss  | Attack Type          | Chain    |
+| ---------- | ------------------------------------------------------------ | ----- | -------------------- | -------- |
+| 20250221   | [Bybit](https://github.com/Web3Hack/HackEx/tree/main/2025/20250221-Bybit) | $130M | Privilege Escalation | Ethereum |
+| 2023-05-20 | Jimbos Protocol                                              | $7.5M | Logic Flaw           | Arbitrum |
+| 2023-04-17 | Azuki NFT Mint                                               | $2M   | Phishing             | Ethereum |
+| 2023-03-13 | Euler Finance                                                | $197M | Flash Loan           | Ethereum |
 
 > [!TIP]
 > **Full Event List**:  
