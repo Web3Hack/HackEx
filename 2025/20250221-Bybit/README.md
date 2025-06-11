@@ -2,6 +2,7 @@
 
 - [Bybit被盗事件分析](https://mp.weixin.qq.com/s/3l-pOnCy17ZCqrxMLbREPg)@BlockSec
 - [慢雾：Bybit 近 15 亿美元被盗背后的黑客手法与疑问](https://mp.weixin.qq.com/s/imC09I6Ty5aMkkENZTMOVg)@慢雾安全团队
+- [Bybit 近 15 亿美金被盗真相 ：Safe{Wallet} 前端代码被篡改](https://mp.weixin.qq.com/s/FRah-8tZ9cI7Pc_u3JNXyg)@慢雾安全团队
 - [事件通报：ETH 冷钱包未经授权活动](https://announcements.bybit.com/zh-MY/article/incident-update-unauthorized-activity-involving-eth-cold-wallet-blt292c0454d26e9140/)@bybit官方
 - [加密货币 APT 情报：揭秘 Lazarus Group 入侵手法](https://mp.weixin.qq.com/s/rB4XeIBATAb1zHZ9WVyxAg)@@慢雾安全团队
 - [Bybit 被盗近 15 亿美金 人类历史上金额最大的盗窃案 朝鲜黑客是如何做到的？](https://mp.weixin.qq.com/s/Dao5Bocv64zmoWXWZWRGiA)吴说
@@ -18,3 +19,4 @@
 - [Bybit惊爆世纪大劫案！黑客一夜卷走14亿美元ETH，网友：这比银行抢钱还刺激？](https://mp.weixin.qq.com/s/QmnPdbegBuMtKaeFGW2UVQ)@ 憨老王
 - https://blog-blockchain.xyz/defi/bybit-attack-discussion/
 - https://mp.weixin.qq.com/s/cNAbNWPm4wfVispak8UOlw
+- https://x.com/safe/status/1894768522720350673
